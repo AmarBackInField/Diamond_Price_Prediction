@@ -1,1 +1,3 @@
-## MAchine Learning Projects
+## Machine Learning Project -1
+
+I recently completed a Machine Learning project titled 'Diamond Price Prediction' using 10 independent features: id, carat, cut, color, clarity, depth, table, x, y, and z. The objective was to determine the price of a diamond. The project is fully automated using Pipelines.In this endeavor, I employed various regression models such as Linear Regression, Lasso, Ridge, and ElasticNet to obtain the most accurate prediction with the least error, which I measured using R^2 squared , MSE, MAE, and RMSE metrics.The best R^2 score I achieved was 93.68% using the Ridge model.
